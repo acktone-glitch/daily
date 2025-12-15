@@ -1,0 +1,7 @@
+Python:
+- Print your name
+- Create a list of 3 items
+
+Bash:
+- Create a folder
+- Create a file inside it
