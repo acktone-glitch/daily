@@ -1,0 +1,14 @@
+Python:
+- Create a list of 5 favorite books or songs
+- Print the list
+- Print the first and last items separately
+
+Bash:
+- Create a folder called day2_test inside daily_tasks
+- Create a file hello.txt inside it
+- Write "Hello Ritah, Day 2 setup complete!" into the file using echo
+
+GitHub:
+- Run push_today.sh after completing tasks
+- Confirm commit appears in repo
+- Check contribution graph for green square
