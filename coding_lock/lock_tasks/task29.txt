@@ -1,0 +1,1 @@
+Write a Bash script that prints your system’s hostname.

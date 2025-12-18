@@ -1,0 +1,1 @@
+Write a Bash script that loops through all files and prints their permissions.

@@ -1,0 +1,1 @@
+Create a Python list of 5 names and print only those starting with 'A'.

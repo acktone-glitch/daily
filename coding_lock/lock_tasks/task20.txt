@@ -1,0 +1,1 @@
+Write a Bash script that echoes 'Hello Ritah' 5 times.

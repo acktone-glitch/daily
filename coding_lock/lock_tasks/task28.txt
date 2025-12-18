@@ -1,0 +1,1 @@
+Write a Bash script that appends a timestamp to a log file.

@@ -1,0 +1,1 @@
+Write a Python script that reads a text file and prints the number of lines.

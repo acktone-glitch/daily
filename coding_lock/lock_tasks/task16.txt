@@ -1,0 +1,1 @@
+Write a Bash script that prints the current date and time.

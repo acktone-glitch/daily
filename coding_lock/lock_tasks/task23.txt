@@ -1,0 +1,1 @@
+Write a Bash script that prints the size of every file in the current directory.

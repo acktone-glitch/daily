@@ -1,0 +1,1 @@
+Write a Bash script that renames all .txt files to .bak.

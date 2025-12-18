@@ -1,0 +1,1 @@
+Write a Bash script that counts the number of lines in a file.
