@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOCK_DIR="$home/acktone/ritah/coding_routine/coding_lock"
+LOCK_DIR="$HOME/ritah/coding_routine/coding_lock"
 TASK_DIR="$LOCK_DIR/lock_tasks"
 LOG_DIR="$LOCK_DIR/lock_logs"
 QUOTE_FILE="$LOCK_DIR/quotes/quotes.txt"
